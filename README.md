@@ -1,4 +1,6 @@
 # project
-this is repo of a project.
-<p>after creating set up open terminal then write a command <font color="red">pip install -r requirements.txt.</font></p>
-<p>then setup will be created , now commit it .</p>
+This is a tutorial on git.
+## steps:
+ - 1.requirements.txt
+ - 2.setup.py
+ - 3.pip install -r requirements.txt (run in terminal)
