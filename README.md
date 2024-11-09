@@ -12,3 +12,5 @@ This is a tutorial on git.
     - git checkout -b <name_of_branch>
 3. when pushing to a new branch:
     - git push origin <name_of_branch>
+4. when pulling from a new branch
+   - git pull origin <name_of_branch> 
