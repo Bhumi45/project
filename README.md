@@ -1,6 +1,12 @@
 # project
 This is a tutorial on git.
-## steps:
+## steps to setup project:
  - 1.requirements.txt
  - 2.setup.py
  - 3.pip install -r requirements.txt (run in terminal)
+
+## steps to create a new branch
+ 1. check which branches are present:
+    - git branch
+ 2. creating a new branch:
+    - git checkout -b <name_of_branch>
