@@ -10,3 +10,5 @@ This is a tutorial on git.
     - git branch
  2. creating a new branch:
     - git checkout -b <name_of_branch>
+3. when pushing to a new branch:
+    - git push origin <name_of_branch>
